@@ -969,14 +969,14 @@ body.pageslide-open {
       -ms-border-radius: 3px;
       -o-border-radius: 3px;
       border-radius: 3px;
-      background: #eee;
+      background: #22537F;
       padding: 0px 6px;
       text-transform: uppercase;
       font-weight: normal;
       vertical-align: middle; }
       /* line 138, ../sass/modules/_posts.scss */
       .post-content .post-heading .post-category:hover {
-        background: #f36c3d;
+        background: #44A6FF;
         color: white; }
   /* line 144, ../sass/modules/_posts.scss */
   .post-content .post-meta {
@@ -1013,11 +1013,10 @@ body.pageslide-open {
         color: #f36c3d; }
       /* line 175, ../sass/modules/_posts.scss */
       .post-actions li a.share-link {
-        color: #7ac0e4;
-        color: #f8e121; }
+        color: #44A6FF; }
       /* line 179, ../sass/modules/_posts.scss */
       .post-actions li a.discuss-link {
-        color: #a3d06d; }
+        color: #44A6FF; }
       /* line 182, ../sass/modules/_posts.scss */
       .post-actions li a.more-link {
         color: #7ac0e4; }
