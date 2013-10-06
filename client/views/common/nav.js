@@ -15,7 +15,7 @@ Template.nav.events = {
 
 Template.nav.rendered=function(){
   if(!Meteor.user()){
-    $('.login-link-text').text("Apply/Sign In");
+    $('.login-link-text').text("Sign In/Apply");
   }else{
     $('#login-buttons-logout').before('<a href="/account" class="account-link button">My Account</a>');
   }
